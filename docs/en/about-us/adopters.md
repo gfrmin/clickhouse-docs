@@ -45,6 +45,7 @@ The following list of companies using ClickHouse and their success stories is as
 | [Botify](https://www.botify.com/) | SaaS | SEO | — | — | [Blog Article, September 2022](https://tech.marksblogg.com/billion-taxi-rides-doublecloud-clickhouse.html) |
 | [Bytedance](https://www.bytedance.com) | Social platforms | — | — | — | [The ClickHouse Meetup East, October 2020](https://www.youtube.com/watch?v=ckChUkC3Pns) |
 | [CardsMobile](https://cardsmobile.ru/) | Finance | Analytics | — | — | [VC.ru](https://vc.ru/s/cardsmobile/143449-rukovoditel-gruppy-analiza-dannyh) |
+| [Cato Networks](https://www.catonetworks.com/) | Network Security | — | 8 Billion (4TB) new events per day | [Full Stack Developers Israel, Jan 2023](https://www.youtube.com/watch?v=Is4TC2gf5EM) |
 | [CARTO](https://carto.com/) | Business Intelligence | Geo analytics | — | — | [Geospatial processing with ClickHouse](https://carto.com/blog/geospatial-processing-with-clickhouse/) |
 | [CERN](http://public.web.cern.ch/public/) | Research | Experiment | — | — | [Press release, April 2012](https://www.yandex.com/company/press_center/press_releases/2012/2012-04-10/) |
 | [Chainbase](https://chainbase.online/) | Blockchain | Main product | — | — | [Documentation](https://docs.chainbase.online/r/data-cloud-studio/data-cloud-api) |
